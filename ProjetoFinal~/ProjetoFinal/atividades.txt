@@ -1,0 +1,17 @@
+1;Caminhada média;7
+2;Caminhada rápida;8
+3;Polo aquático;14
+4;Musculação;8
+5;Aula aeróbica;7
+6;Bicicleta;7
+7;Futebol de salão;11
+8;Pular corda;11
+9;Artes Marciais;14
+10;Corrida;18
+11;Patinação;17
+12;Futebol;9
+12;Alongamento/Ioga;3
+14;Natação;9
+15;Tênis;11
+16;Esteira;16
+17;Vôlei;4
